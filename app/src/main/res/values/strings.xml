@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="event_duration">From %1$s to %2$s</string>
+</resources>
